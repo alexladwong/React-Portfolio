@@ -4,7 +4,6 @@
 
 <h2>🚀 Demo</h2>
 
-[https://portfolio-lohit.vercel.app/](https://portfolio-lohit.vercel.app/)
 
   
   
