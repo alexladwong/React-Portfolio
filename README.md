@@ -23,7 +23,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/lohitkolluri/Portfolio-Website.git
+git clone https://github.com/alexladwong/React-Portfolio
 ```
 
 <p>2. Navigate to directory:</p>
